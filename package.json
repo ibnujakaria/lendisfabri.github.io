@@ -1,0 +1,11 @@
+{
+  "name": "lendisfabri.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LendisFabri/lendisfabri.github.io.git",
+  "author": "LendisFabri <lendisfabri27@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
